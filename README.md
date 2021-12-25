@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-Hi. I am a current freshman at the University of Waterloo, studying Math. I am currently working with web technologies, and open to working and learning about various tech stacks.
 
-Here are some ideas to get you started:
+Hi. I am a current freshman at the University of Waterloo, studying Math. I am currently working with web technologies, and open to working and learning about various tech stacks.
 
 - 🔭 I’m currently working on Web Apps
 - 🌱 I’m currently learning React
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: v59shah@uwaterloo.ca
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cars!
--->
+
