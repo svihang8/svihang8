@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vihang</h1>
 <h3 align="center">Software Developer with a background in Math</h3>
 
-- 🔭 I’m currently working on **Prescripto - AI Health Prescriptions**
-
-- 🌱 I’m currently learning **GraphQL**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **v59shah@uwaterloo.ca**
