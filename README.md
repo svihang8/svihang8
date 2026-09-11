@@ -1,1 +1,1 @@
-Studies Math @ Waterloo . I like building stuff . I like learning . I like 🕊️ 
+Studied Math @ Waterloo . I like building stuff . I like learning . I like 🕊️ 
